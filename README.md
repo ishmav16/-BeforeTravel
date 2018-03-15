@@ -3,5 +3,5 @@
    This work is done on the part of mini project in the course **Programming Systems**.
    
 <p align="center">
-  <img src="Screenshot (80).png" height=300 width=600 alt="input-image">
+  <img src="beforeTravel.png" height=300 width=600 alt="input-image">
 </p>
