@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BeforeTravel_Final/ViewController.swift"
+            timestampString = "515399296.60603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeforeTravel_Final.ViewController.FoodCat.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "BeforeTravel_Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srikanth/Desktop/Vamshi%20Krishna%20R/BeforeTravel_Final/BeforeTravel_Final/ViewController.swift"
+                  timestampString = "515168823.406833"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeforeTravel_Final.ViewController.FoodCat.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "BeforeTravel_Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srikanth/Desktop/Vamshi%20Krishna%20R/BeforeTravel_Final/BeforeTravel_Final/ViewController.swift"
+                  timestampString = "515168823.416467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeforeTravel_Final.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BeforeTravel_Final.ViewController"
+                  moduleName = "BeforeTravel_Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srikanth/Desktop/Vamshi%20Krishna%20R/BeforeTravel_Final/BeforeTravel_Final/ViewController.swift"
+                  timestampString = "515168823.420549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeforeTravel_Final.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BeforeTravel_Final.ViewController&gt;"
+                  moduleName = "BeforeTravel_Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srikanth/Desktop/Vamshi%20Krishna%20R/BeforeTravel_Final/BeforeTravel_Final/ViewController.swift"
+                  timestampString = "515168823.424491"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
