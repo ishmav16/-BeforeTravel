@@ -3,7 +3,7 @@
    This work is done on the part of mini project in the course **Programming Systems**.
    
  
-**Following is the wireframe images of my app and same like I developed**.
+**Following are the wireframe images of my app and same like I developed**.
 
 <p align="center">
   <img src="images/beforeTravel.png" alt="wire-frame-image">
